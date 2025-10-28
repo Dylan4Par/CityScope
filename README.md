@@ -1,4 +1,4 @@
-![Architecture](architecture/logo.png)
+![Architecture](architecture/logo.PNG)
 # CityScope™ — Critical Incident Response Predictive System (Denver MVP)
 
 **Career-first portfolio project** showcasing end-to-end **Data Engineering + MLOps + Geospatial ML**.
