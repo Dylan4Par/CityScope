@@ -10,6 +10,9 @@
 
 ## 📊 CityScope Pitch Deck
 
+CityScope™ empowers faster and smarter critical incident response through 
+real-time risk prediction, geospatial analytics, and cloud-scale data engineering.
+
 [▶️ View Presentation (PDF)](architecture/pitch_deck/CityScope_Pitch_Deck.pptx)
 ### 🏗️ Architecture Overview
 
