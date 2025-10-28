@@ -6,6 +6,14 @@
 **Stack (MVP):** AWS (S3, Glue, Kinesis, SageMaker), Python, Pandas, scikit-learn, Streamlit, Map tiles.  
 **Demo focus:** Denver metro — risk heatmap (30–60 min horizon), basic ETA baseline, events + weather influence.
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-005F73?logo=googlemaps&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-102230?logo=opencv&logoColor=white)
+
+
 ![Architecture](architecture/cityscope_architecture.png)
 
 ## 📊 CityScope Pitch Deck
