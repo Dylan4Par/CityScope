@@ -11,6 +11,13 @@
 ## 📊 CityScope Pitch Deck
 
 [▶️ View Presentation (PDF)](architecture/pitch_deck/CityScope_Pitch_Deck.pptx)
+### 🏗️ Architecture Overview
+
+#### ✅ Current MVP Architecture (Denver Prototype)
+_(Image coming soon)_
+
+#### 🚀 Scalable AWS Architecture (Future Vision)
+_(Image coming soon)_
 
 Showcases:
 - Denver MVP prototype
