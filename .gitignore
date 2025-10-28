@@ -1,0 +1,57 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+.env.*
+*.env
+.ipynb_checkpoints
+
+# Data
+data/**/*.parquet
+data/**/*.csv
+data/**/*.jsonl
+data/**/*.feather
+data/**/*.arrow
+data/**/*.pkl
+data/**/*.joblib
+models/
+predictions/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Streamlit
+.streamlit/
+
+# Node/React (future)
+node_modules/
+dist/
+build/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials (never commit)
+*.pem
+*.key
+*.crt
+*.creds
+*.secrets
+secrets.*
