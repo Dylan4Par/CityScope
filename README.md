@@ -14,10 +14,10 @@
 ### 🏗️ Architecture Overview
 
 #### ✅ Current MVP Architecture (Denver Prototype)
-_(Image coming soon)_
+![MVP Architecture](architecture/images/mvp_architecture.png)
 
 #### 🚀 Scalable AWS Architecture (Future Vision)
-_(Image coming soon)_
+![AWS Architecture](architecture/images/aws_future_architecture.png)
 
 Showcases:
 - Denver MVP prototype
