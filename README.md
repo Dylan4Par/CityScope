@@ -1,3 +1,4 @@
+![Architecture](architecture/logo.png)
 # CityScope™ — Critical Incident Response Predictive System (Denver MVP)
 
 **Career-first portfolio project** showcasing end-to-end **Data Engineering + MLOps + Geospatial ML**.
@@ -6,6 +7,17 @@
 **Demo focus:** Denver metro — risk heatmap (30–60 min horizon), basic ETA baseline, events + weather influence.
 
 ![Architecture](architecture/cityscope_architecture.png)
+
+## 📊 CityScope Pitch Deck
+
+[▶️ View Presentation (PDF)](architecture/pitch_deck/CityScope_Pitch_Deck.pptx)
+
+Showcases:
+- Denver MVP prototype
+- Incident risk prediction concept
+- Cloud + data engineering architecture
+- ML + routing optimization roadmap
+
 
 ## What this repo shows (public)
 - Clean cloud architecture (AWS-first)
